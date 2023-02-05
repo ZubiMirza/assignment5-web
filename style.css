@@ -1,0 +1,24 @@
+.wi{
+    width: 300px;
+}
+.img{
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+}
+.lorem{
+    align-content: center;
+}
+.border-bottom{
+    width: 70%;
+}
+.para{
+    width: 80px;
+}
+.bb{
+    width: 80px;
+
+}
+.text{
+    padding-top: 250px;
+}
